@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jiancheng Wu
-- 💼 I have worked in the payment finance and e-commerce industry
-- 🤔 I’m currently focusing on GoLang K8s
+- 💼 I have worked in the payment, e-commerce and AI industry
+- 🤔 I’m currently focusing on `GoLang` `K8s`
 - 🔍 I'm currently looking for remote work
-- 💬 Ask me about Golang development stack, Microservice, etc...
+- 💬 Ask me about **Golang development stack, Microservice**, etc...
 - 📫 How to reach me jasonwueng@gmail.com
 
 <!---
