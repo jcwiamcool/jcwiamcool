@@ -2,6 +2,7 @@
 <!--
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jcwiamcool.jcwiamcool)
 --->
+![](https://github.com/jcwiamcool/jcwiamcool/blob/main/header.png)
 
 - 👋 Hi, I’m Jiancheng Wu
 - 🤔 I’m currently focusing on `GoLang` `K8s`
