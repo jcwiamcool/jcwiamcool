@@ -1,5 +1,7 @@
 
+<!--
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jcwiamcool.jcwiamcool)
+--->
 
 - 👋 Hi, I’m Jiancheng Wu
 - 🤔 I’m currently focusing on `GoLang` `K8s`
