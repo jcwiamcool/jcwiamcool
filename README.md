@@ -1,3 +1,5 @@
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jcwiamcool.jcwiamcool" alt="visitor badge"/>
+
 - 👋 Hi, I’m Jiancheng Wu
 - 🤔 I’m currently focusing on `GoLang` `K8s`
 - 💼 I have worked in the payment, e-commerce and AI industry
